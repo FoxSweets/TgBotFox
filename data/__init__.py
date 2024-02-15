@@ -1,0 +1,1 @@
+from . import createDataBase, requestDataBase, request_word
